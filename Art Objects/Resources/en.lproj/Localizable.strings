@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Art Objects
+
+  Created by Vitaliy Teleusov on 19.04.2021.
+  
+*/
+
+/*
+ Alert button titles
+ */
+
+"ok" = "Ok";
+"done" = "Done";
+"logOut" = "Log Out";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"no" = "No";
+
+/*
+ Arts list
+ */
+
+"arts" = "Arts";
+"artObjectDetailsNotFound" = "Art object details not found";
+"details" = "Details";

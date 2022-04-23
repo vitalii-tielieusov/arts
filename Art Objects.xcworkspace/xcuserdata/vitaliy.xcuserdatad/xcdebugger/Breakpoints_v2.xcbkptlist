@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D91A108-1EB6-4D9A-8F03-2664FB73EC94"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3790548F-5CB4-46B6-81D7-6C2AC0374808"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Art Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "fetchNextArts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF9E58D7-9CE7-4383-A353-8CDD7150468F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Art Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "fetchNextArts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1528C3B5-A570-4CAA-BE9B-A1EFE75D644E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Art Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "fetchNextArts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1528C3B5-A570-4CAA-BE9B-A1EFE75D644E - c14deed08e8bdae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Art_Objects.ArtObjectsResponse, Swift.Error&gt;) -&gt; () in Art_Objects.ArtsInteractorImpl.(fetchNextArts in _2366D8FBBCF7F9B67C7AC34E72717E20)() -&gt; ()"
+                  moduleName = "Art Objects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliy/Documents/Projects/EPAM/Art%20Objects/Art%20Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "538">
+               </Location>
+               <Location
+                  uuid = "1528C3B5-A570-4CAA-BE9B-A1EFE75D644E - c14deed08e8bdae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Art_Objects.ArtObjectsResponse, Swift.Error&gt;) -&gt; () in Art_Objects.ArtsInteractorImpl.(fetchNextArts in _2366D8FBBCF7F9B67C7AC34E72717E20)() -&gt; ()"
+                  moduleName = "Art Objects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliy/Documents/Projects/EPAM/Art%20Objects/Art%20Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "625">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D254E8C-D296-49E6-891F-B22897CE63EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Art Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "displayArtObjectDetails(objectNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D254E8C-D296-49E6-891F-B22897CE63EF - 94262c13eb353660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Art_Objects.ArtsInteractorImpl.(getArtObjectDetails in _2366D8FBBCF7F9B67C7AC34E72717E20)(objectNumber: Swift.String) -&gt; ()"
+                  moduleName = "Art Objects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliy/Documents/Projects/EPAM/Art%20Objects/Art%20Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "8D254E8C-D296-49E6-891F-B22897CE63EF - ad5d4761522348a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Art_Objects.ArtObjectDetailsResponse, Swift.Error&gt;) -&gt; () in Art_Objects.ArtsInteractorImpl.(getArtObjectDetails in _2366D8FBBCF7F9B67C7AC34E72717E20)(objectNumber: Swift.String) -&gt; ()"
+                  moduleName = "Art Objects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vitaliy/Documents/Projects/EPAM/Art%20Objects/Art%20Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "206">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFF48040-DC5E-4463-95F8-929B76145444"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Art Objects/Sources/Scenes/Root/ArtsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "displayArtObjectDetails(objectNumber:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
